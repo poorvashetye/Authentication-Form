@@ -1,6 +1,5 @@
 # Authentication-Form
-This is a basic CRUD application
-###### Technologies used: Javascript, HTML, CSS, NodeJS.
+###### Technologies used: Javascript, HTML, CSS, NodeJS, PostgreSQL.
 ###### Working of the API was also tested on Burpsuite.
 
 ![Banner](https://github.com/poorvashetye/Authentication-Form/blob/main/public/img/ss.png)
