@@ -7,7 +7,7 @@
 lampp
 
 ## How to install
-- Clone the repo (git clone https://github.com/aadix420/AuthLogin.git)
+- Clone the repo (git clone https://github.com/poorvashetye/Authentication-Form)
 - Install NPM (sudo apt install npm)
 - Install all the dependencies (npm install express path body-parser knex)
 - Setup postgres
